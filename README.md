@@ -1,20 +1,9 @@
-### Hello there 👋
+# Hello there 👋
 ## Who ami I ?
 I'm a student at 42 Paris School.<br>
-Top 2 of the 2019 promotion.
-Level 22.42 atm.
-Working on the TCP/IP projects (implementing ping and traceroute from scratch.
-<!--
-**thervieu/thervieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Top 2 of the 2019 promotion.<br>
+I did all the data and devops projects. And a bit of eveything else ranging from algorithmics to backend.<br>
+Level 22.42 atm.<br>
+Working on the TCP/IP projects (implementing ping and traceroute from scratch.<br>
+## What's next ?
+Internship to finish school. Looking for DevOps, Data Science, Data Analytics, MLOps kinda jobs.
