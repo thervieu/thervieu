@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hello there 👋
+## Who ami I ?
+I'm a student at 42 Paris School.<br>
+Top 2 of the 2019 promotion.
+Level 22.42 atm.
+Working on the TCP/IP projects (implementing ping and traceroute from scratch.
 <!--
 **thervieu/thervieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
