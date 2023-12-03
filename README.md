@@ -1,5 +1,5 @@
 # Hello there 👋
-## Who ami I ?
+## Who am I ?
 I'm a student at 42 Paris School. 👨‍🎓<br>
 Top 2 of the 2019 promotion. 🥈 Top 10 of all promotions with the number of projects done as the metric. 🚀<br>
 I did all the data and devops projects. 💻 And a bit of eveything else ranging from algorithmics to backend.<br>
